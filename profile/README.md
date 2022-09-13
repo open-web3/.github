@@ -1,8 +1,8 @@
+![github-banner](https://user-images.githubusercontent.com/3408362/189879320-16e821d1-a76b-44d9-9ae0-21df82538339.png)
+
 # Open Web3
 
 Cryptocurrency, blockchain and Web3 technologies are under attack.
-
-Grassroots movement are emergent, antifragile and decentralized. A perfect defense in a digital world.
 
 ## Constitution
 
