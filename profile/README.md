@@ -1,4 +1,4 @@
-![github-banner](https://user-images.githubusercontent.com/3408362/189880290-84006889-680c-4308-9968-baf9e642c1bc.png)
+![github-banner](https://user-images.githubusercontent.com/3408362/189880753-04966d09-d3e0-48b8-aec0-d3bc593c4ddc.png)
 
 # Open Web3
 
