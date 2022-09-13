@@ -1,4 +1,4 @@
-![github-banner](https://user-images.githubusercontent.com/3408362/189879320-16e821d1-a76b-44d9-9ae0-21df82538339.png)
+![github-banner](https://user-images.githubusercontent.com/3408362/189880290-84006889-680c-4308-9968-baf9e642c1bc.png)
 
 # Open Web3
 
@@ -6,7 +6,7 @@ Cryptocurrency, blockchain and Web3 technologies are under attack.
 
 ## Constitution
 
-We the People of the Ethereum Network State stand firmly for an open, secure and neutral Web3; protecting foundational digital rights like accessibility, ownership and privacy.
+We the People of the Ethereum Network State stand firmly for a neutral and decentralized Internet; protecting foundational digital rights like accessibility, ownership and privacy.
 
 The Open Web3 Constitution is a clear declaration of these inalienable rights.
 
